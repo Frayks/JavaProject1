@@ -10,6 +10,10 @@ public class Main {
         System.out.println(a);
     }
 
+    public static void ivan_method(){
+        System.out.println();
+    }
+
     public static void main(String[] args) {
 	System.out.println("LOL!");
 	System.out.println("KEK!");
